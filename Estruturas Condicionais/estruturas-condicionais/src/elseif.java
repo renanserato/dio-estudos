@@ -1,4 +1,4 @@
-public class Estruturas {
+public class elseif {
     public static void main(String[] args) {
         
         int a = 0;
